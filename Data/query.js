@@ -1,17 +1,28 @@
 const lists =[
     {
-        name:"kashif",
-        email:"kasif@gmail.com",
+        name:"Operating System",
+       Teacher:"Ravi Ranjan Sir",
+        branch:"CS"
+
+    },
+    {
+        name:"DBMS",
+       Teacher:"Raju Raj Sir",
         branch:"CS"
     },
     {
-        name:"arpit",
-        email:"arpit@gmail.com",
+        name:"DSA IN C",
+       Teacher:"Ankit Sir",
         branch:"CS"
     },
     {
-        name:"alex",
-        email:"alex@gmail.com",
+        name:"PYTHON",
+       Teacher:"Rjeev Sir",
+        branch:"CS"
+    },
+    {
+        name:"COMPUTER GRAPHICS",
+       Teacher:"Coming Soon",
         branch:"CS"
     }
 
