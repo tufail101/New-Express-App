@@ -8,6 +8,10 @@ const router = express.Router();
 // router.get('/',(req,res)=>{
 //     res.render('home')
 // })
+// router.get('/api/data', (req, res) => {
+//     res.json(data);  // Return data as JSON
+// });
+
 router.get("/", (req, res) => {
   const query = req.query.query;
   if (query) {
